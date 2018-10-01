@@ -1,0 +1,10 @@
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\bin\Debug\HTML Scraper.exe.config
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\bin\Debug\HTML Scraper.exe
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\bin\Debug\HTML Scraper.pdb
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\obj\Debug\HTML Scraper.csprojAssemblyReference.cache
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\obj\Debug\HTML_Scraper.Form1.resources
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\obj\Debug\HTML_Scraper.Properties.Resources.resources
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\obj\Debug\HTML Scraper.csproj.GenerateResource.cache
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\obj\Debug\HTML Scraper.csproj.CoreCompileInputs.cache
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\obj\Debug\HTML Scraper.exe
+C:\Users\CehDe\source\repos\HTML Scraper\HTML Scraper\obj\Debug\HTML Scraper.pdb
